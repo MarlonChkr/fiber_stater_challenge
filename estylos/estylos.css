@@ -1,0 +1,53 @@
+#fondo,
+#color{
+    background-color:  rgb(236, 233, 233);
+    border: none;
+}
+.btncolor{
+    background-color: rgb(113, 72, 190);
+}
+#colors{
+    color: rgb(231, 169, 55);
+}
+#colors2{
+    color: rgb(113, 72, 190);
+}
+.bol{
+    font-weight: bolder;
+    font-weight: 800px;
+}
+.p1{
+    font-weight: 800px;
+}
+.palomilla{
+    color: rgb(24, 168, 96);
+}
+.img1{
+    width: 600px;
+    align-items: flex-end;
+}
+.letras{
+    color:rgb(113, 72, 190);
+}
+.plugin{
+    color:rgb(113, 72, 190);
+}
+#borde{
+    border: none;
+    background-color: rgb(113, 72, 190);
+
+}
+.car2{
+    border: none;
+}
+.btnf{
+    border-bottom: rgb(113, 72, 190);
+}
+.btn34{
+    color: rgb(113, 72, 190);
+    font-weight: bolder;
+}
+.color23{
+    background-color: rgb(113, 72, 190);
+
+}
